@@ -1,0 +1,6 @@
+C:\Users\Student\Desktop\GitHub\Technical Interview Questions\WebApplication1\ConsoleApp1\obj\Debug\Odd Number Exercise.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\GitHub\Technical Interview Questions\WebApplication1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Student\Desktop\GitHub\Technical Interview Questions\WebApplication1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\Student\Desktop\GitHub\Technical Interview Questions\WebApplication1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Student\Desktop\GitHub\Technical Interview Questions\WebApplication1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Student\Desktop\GitHub\Technical Interview Questions\WebApplication1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
